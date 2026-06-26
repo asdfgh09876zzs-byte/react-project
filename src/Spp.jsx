@@ -1,19 +1,19 @@
 // export default function App() {
 //   return (
-  <>
-  {/* <div className="bg-amber-400 w-full h-screen">div 1</div>
-  <div className="bg-red-400  w-3/12 m-4 p-6 ">div 2</div>
-  {/* <div className="bg-red-400  w-1/2">div 2</div>  0كده الو عوزيو ياخد نصف الاعمود */}
-  {/* <div className="bg-indigo-400  w-[20%] pl-3">div 3</div> */}
-  {/* <div className="bg-red-500 w-202">div 4</div>  */}
+//   <>
+//    <div className="bg-amber-400 w-full h-screen">div 1</div> 
+//   <div className="bg-red-400  w-3/12 m-4 p-6 ">div 2</div>
+//   <div className="bg-red-400  w-1/2">div 2</div>  0كده الو عوزيو ياخد نصف الاعمود
+//   <div className="bg-indigo-400  w-[20%] pl-3">div 3</div>
+//   <div className="bg-red-500 w-202">div 4</div> 
 
-  {/* <div className="bg-indigo-400  w-[2200px]">div 3</div> */}
-  {/* ول height زي ال ويتس بزبط */}
+//   <div className="bg-indigo-400  w-[2200px]">div 3</div>
   {/* <Mapp/> */}
   {/* <Npp/> */}
-  </>
+//   </>
 //   )
 // }
+{/* ول height زي ال ويتس بزبط */}
 
 
 // وي دا ال مرجين ول بادينج 

@@ -1,9 +1,9 @@
-import NavBar from "./NavBar";
+// import NavBar from "./NavBar";
 
-export default function Homepage() {
-  return (
-    <div>
-      <NavBar/>
-    </div>
-  )
-}
+// export default function Homepage() {
+//   return (
+//     <div>
+//       <NavBar/>
+//     </div>
+//   )
+// }
